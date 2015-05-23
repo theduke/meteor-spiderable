@@ -10,6 +10,8 @@ The changes to the original package are minimal (only 3 lines are different).
 
 Inspired by https://github.com/ongoworks/spiderable.
 
+## Package info
+
 
 `spiderable` is part of [Webapp](https://www.meteor.com/webapp). It's one possible way to allow web search engines to index a Meteor application. It uses the [AJAX Crawling specification](https://developers.google.com/webmasters/ajax-crawling/) published by Google to serve HTML to compatible spiders (Google, Bing, Yandex, and more).
 
