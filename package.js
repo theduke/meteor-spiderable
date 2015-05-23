@@ -6,7 +6,7 @@ Package.describe({
 });
 
 Package.onUse(function (api) {
-  api.versonsFrom("METEOR@1.0.0");
+  api.versionsFrom("1.0");
 
   api.use('webapp', 'server');
   api.use(['ddp'], 'client');
